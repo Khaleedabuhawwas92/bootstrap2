@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap2",
+  "version": "1.0.0",
+  "description": "this the verien 2 in bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob-stream": "^6.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-emojify": "0.0.2",
+    "gulp-livereload": "^4.0.2",
+    "gulp-msg": "0.0.4",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "pug": "^2.0.4",
+    "sass": "^1.26.5",
+    "static-server": "^2.2.1"
+  }
+}
